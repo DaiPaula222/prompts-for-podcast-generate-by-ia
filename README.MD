@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Leonardo_Phoenix_10_create_girl_character_as_podcaster_manager_2.jpg"
     width="300"
 />
 </p>
